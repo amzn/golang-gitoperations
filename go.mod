@@ -1,3 +1,3 @@
-module github.com/amzn/golang-gitoperations/v1
+module github.com/amzn/golang-gitoperations
 
 go 1.15
